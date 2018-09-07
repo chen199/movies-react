@@ -1,7 +1,15 @@
-I am studing React, so I am creating components
+## Basic React Application.
 
-## Components in React
+I build simple react app using create-react-app
 
-1. Import and show movies into a table
-2. Manage pagination
-3. Component with menu based on genre of movies
+# Why this app
+
+I am studing React framework and I like the way you can create frontend application using components, so I have create this to grow my skills.
+
+# Components created
+
+1. Movies: component with all the logic where I import data (form fakeMovieService.js file) to pass into MovieTable, Pagination and ListGroup components
+2. MovieTable: Component to show into a table all movies
+3. ListGroup: Component to show all genres and use this menu to filter the results to show in MovieTable
+4. Pagination: Component to allow to create pages and show only max 4 movies into every one
+5. Like Component used in MovieTable to allow you to add a like to a specific movie
