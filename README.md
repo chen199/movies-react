@@ -1,10 +1,24 @@
 ## Basic React Application.
 
-I build simple react app using create-react-app
+I have buil this  simple react app for study.
+You can clone this repo and see how it works:
+
+```
+git clone https://github.com/marcocappa/movies-react.git
+
+cd movies-react
+
+npm install
+
+npm start
+```
+---
 
 # Why this app
 
 I am studing React framework and I like the way you can create frontend application using components, so I have create this to grow my skills.
+
+---
 
 # Components created
 
